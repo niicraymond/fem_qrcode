@@ -1,0 +1,11 @@
+:root {
+    --background-color: #D5E1EF;
+    --text-color: #1F314F;
+    --card-background-color: #FFFFFF;
+    --qr-code-background-color: #FFFFFF;
+    --attribution-color: #7D889E;
+}
+
+body {
+    background-color: var(--background-color)
+}
