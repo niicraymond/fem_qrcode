@@ -9,3 +9,9 @@
 body {
     background-color: var(--background-color)
 }
+
+img {
+    width: 288px;
+    height: 288px;
+}
+
